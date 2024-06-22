@@ -14,10 +14,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= npm run build",  // Ignore CI environment variable
+    "build": "CI= npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
